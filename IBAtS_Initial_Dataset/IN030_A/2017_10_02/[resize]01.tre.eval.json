@@ -1,0 +1,7 @@
+{
+    "classifier": "tre",
+    "true_positive": 0,
+    "false_positive": 0,
+    "false_negative": 8,
+    "true_positive_detections": []
+}

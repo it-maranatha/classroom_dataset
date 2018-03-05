@@ -1,0 +1,56 @@
+{
+    "classifier": "def",
+    "true_positive": 8,
+    "false_positive": 0,
+    "false_negative": 3,
+    "true_positive_detections": [
+        {
+            "x": 351,
+            "y": 211,
+            "width": 26,
+            "height": 26
+        },
+        {
+            "x": 204,
+            "y": 218,
+            "width": 29,
+            "height": 29
+        },
+        {
+            "x": 386,
+            "y": 230,
+            "width": 30,
+            "height": 30
+        },
+        {
+            "x": 250,
+            "y": 239,
+            "width": 36,
+            "height": 36
+        },
+        {
+            "x": 554,
+            "y": 263,
+            "width": 44,
+            "height": 44
+        },
+        {
+            "x": 350,
+            "y": 262,
+            "width": 53,
+            "height": 53
+        },
+        {
+            "x": 435,
+            "y": 324,
+            "width": 62,
+            "height": 62
+        },
+        {
+            "x": 905,
+            "y": 238,
+            "width": 26,
+            "height": 26
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "classifier": "alt",
+    "true_positive": 7,
+    "false_positive": 0,
+    "false_negative": 0,
+    "true_positive_detections": [
+        {
+            "x": 646,
+            "y": 233,
+            "width": 39,
+            "height": 39
+        },
+        {
+            "x": 445,
+            "y": 208,
+            "width": 46,
+            "height": 46
+        },
+        {
+            "x": 375,
+            "y": 269,
+            "width": 49,
+            "height": 49
+        },
+        {
+            "x": 672,
+            "y": 266,
+            "width": 53,
+            "height": 53
+        },
+        {
+            "x": 336,
+            "y": 327,
+            "width": 65,
+            "height": 65
+        },
+        {
+            "x": 112,
+            "y": 403,
+            "width": 98,
+            "height": 98
+        },
+        {
+            "x": 780,
+            "y": 435,
+            "width": 92,
+            "height": 92
+        }
+    ]
+}

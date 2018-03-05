@@ -1,0 +1,44 @@
+{
+    "classifier": "al2",
+    "true_positive": 6,
+    "false_positive": 0,
+    "false_negative": 0,
+    "true_positive_detections": [
+        {
+            "x": 468,
+            "y": 298,
+            "width": 44,
+            "height": 44
+        },
+        {
+            "x": 714,
+            "y": 302,
+            "width": 46,
+            "height": 46
+        },
+        {
+            "x": 648,
+            "y": 372,
+            "width": 50,
+            "height": 50
+        },
+        {
+            "x": 416,
+            "y": 352,
+            "width": 49,
+            "height": 49
+        },
+        {
+            "x": 228,
+            "y": 420,
+            "width": 83,
+            "height": 83
+        },
+        {
+            "x": 736,
+            "y": 458,
+            "width": 81,
+            "height": 81
+        }
+    ]
+}

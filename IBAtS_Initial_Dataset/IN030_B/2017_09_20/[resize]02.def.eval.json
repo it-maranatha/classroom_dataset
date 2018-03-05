@@ -1,0 +1,32 @@
+{
+    "classifier": "def",
+    "true_positive": 4,
+    "false_positive": 0,
+    "false_negative": 1,
+    "true_positive_detections": [
+        {
+            "x": 348,
+            "y": 220,
+            "width": 25,
+            "height": 25
+        },
+        {
+            "x": 514,
+            "y": 226,
+            "width": 27,
+            "height": 27
+        },
+        {
+            "x": 554,
+            "y": 248,
+            "width": 28,
+            "height": 28
+        },
+        {
+            "x": 360,
+            "y": 273,
+            "width": 40,
+            "height": 40
+        }
+    ]
+}
