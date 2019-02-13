@@ -1,6 +1,6 @@
 # FACE - Face At Classroom Environment
 This is the public repository for FACE - Face At Classroom Environment.
-We made this repository publicly available along with our published conference paper [currently in its final draft to be submitted to [IEEE SMC 2018](http://www.smc2018.org/)].
+We made this repository publicly available along with our published conference paper [IEEE IPTA](https://doi.org/10.1109/IPTA.2018.8608166)].
 
 The repository contains gold standard image dataset of students sitting in the laboratory classroom environment.
 Tools and scripting to pre-process and to analyse the dataset are included in the repository.
