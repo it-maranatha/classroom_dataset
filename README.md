@@ -61,3 +61,8 @@ Quantitative analysis is conducted by first counting the number of true positive
 Two Python scripts are written to serve this purpose ([IBAtS_classifier_evaluation.py](https://github.com/itmaranatha/classroom_dataset/blob/41024d669c4067f77176aacf61dac3d470c6e555/IBAtS_classifier_evaluation.py) and [ 	IBAtS_evaluation_summary_table.py](https://github.com/itmaranatha/classroom_dataset/blob/41024d669c4067f77176aacf61dac3d470c6e555/IBAtS_evaluation_summary_table.py)).
 Further, some data visualisations are generated to assist the quantitative analysis.
 For this purpose, a Jupyter Notebook script is written ([IBAtS_quantitative_data_analysis.ipynb](https://github.com/itmaranatha/classroom_dataset/blob/41024d669c4067f77176aacf61dac3d470c6e555/IBAtS_quantitative_data_analysis.ipynb)).
+
+## Citation
+You can cite this dataset by simply cite these two published works:
+- Karnalim, O., Budi, S., Santoso, S., Handoyo, E. D., Toba, H., Nguyen, H., & Malhotra, V. (2018, November). Face-face at classroom environment: Dataset and exploration. In 2018 Eighth International Conference on Image Processing Theory, Tools and Applications (IPTA) (pp. 1-6). IEEE.
+- Budi, S., Karnalim, O., Handoyo, E. D., Santoso, S., Toba, H., Nguyen, H., & Malhotra, V. (2018, December). IBAtS-Image Based Attendance System: A Low Cost Solution to Record Student Attendance in a Classroom. In 2018 IEEE International Symposium on Multimedia (ISM) (pp. 259-266). IEEE.
