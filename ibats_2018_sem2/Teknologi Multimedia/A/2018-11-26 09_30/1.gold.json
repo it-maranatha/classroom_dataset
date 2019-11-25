@@ -1,0 +1,65 @@
+[
+  {
+    "name": "KEVIN NOVANTUS PRATAMA",
+    "nrp": "1772011",
+    "color": "#00ff00",
+    "x": 400,
+    "y": 416,
+    "width": 28,
+    "height": 28
+  },
+  {
+    "name": "NICOLAVICKH YOHANES",
+    "nrp": "1772016",
+    "color": "#00ff00",
+    "x": 535,
+    "y": 418,
+    "width": 29,
+    "height": 29
+  },
+  {
+    "name": "ALEXIUS SURYA",
+    "nrp": "1772043",
+    "color": "#00ff00",
+    "x": 665,
+    "y": 455,
+    "width": 63,
+    "height": 63
+  },
+  {
+    "name": "JOHNSON HARTANTO",
+    "nrp": "1772017",
+    "color": "#00ff00",
+    "x": 272,
+    "y": 471,
+    "width": 54,
+    "height": 54
+  },
+  {
+    "name": "YOSEF YEHEZKIEL IRSYAM",
+    "nrp": "1772009",
+    "color": "#00ff00",
+    "x": 29,
+    "y": 498,
+    "width": 85,
+    "height": 85
+  },
+  {
+    "name": "KELVIN SUSANTO",
+    "nrp": "1772039",
+    "color": "#00ff00",
+    "x": 346,
+    "y": 436,
+    "width": 43,
+    "height": 43
+  },
+  {
+    "name": "VINCENT GUNAERI",
+    "nrp": "1772001",
+    "color": "#00ff00",
+    "x": 606,
+    "y": 420,
+    "width": 47,
+    "height": 47
+  }
+]

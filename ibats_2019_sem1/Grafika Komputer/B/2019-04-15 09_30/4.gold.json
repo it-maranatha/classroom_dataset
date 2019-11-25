@@ -1,0 +1,29 @@
+[
+  {
+    "name": "RONALDO JOSHUA",
+    "nrp": "1672005",
+    "color": "#00ff00",
+    "x": 277,
+    "y": 391,
+    "width": 36,
+    "height": 36
+  },
+  {
+    "name": "MICHAEL CHRISTIAN",
+    "nrp": "1672075",
+    "color": "#00ff00",
+    "x": 340,
+    "y": 379,
+    "width": 25,
+    "height": 25
+  },
+  {
+    "name": "CHRISTYAN CHANDRA WIJAYA",
+    "nrp": "1372041",
+    "color": "#00ff00",
+    "x": 525,
+    "y": 650,
+    "width": 139,
+    "height": 139
+  }
+]

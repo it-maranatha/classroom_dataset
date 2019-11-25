@@ -1,0 +1,38 @@
+[
+  {
+    "name": "VARDINA NAVA MADYA KASMAN",
+    "nrp": "1872025",
+    "color": "#00ff00",
+    "x": 445,
+    "y": 545,
+    "width": 33,
+    "height": 33
+  },
+  {
+    "name": "HELMY HAKIM HAN",
+    "nrp": "1872061",
+    "color": "#00ff00",
+    "x": 526,
+    "y": 614,
+    "width": 45,
+    "height": 45
+  },
+  {
+    "name": "WEDDY ALVINO MARTIN SITOHANG",
+    "nrp": "1872063",
+    "color": "#00ff00",
+    "x": 230,
+    "y": 506,
+    "width": 38,
+    "height": 38
+  },
+  {
+    "name": "DINDA AYU FEBRIANI",
+    "nrp": "1872043",
+    "color": "#00ff00",
+    "x": 188,
+    "y": 547,
+    "width": 40,
+    "height": 40
+  }
+]

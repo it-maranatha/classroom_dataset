@@ -1,0 +1,38 @@
+[
+  {
+    "name": "IGNATIUS GIOVAN",
+    "nrp": "1772003",
+    "color": "#00ff00",
+    "x": 312,
+    "y": 504,
+    "width": 25,
+    "height": 25
+  },
+  {
+    "name": "JOSHUA SUHERLAN",
+    "nrp": "1772013",
+    "color": "#00ff00",
+    "x": 197,
+    "y": 528,
+    "width": 23,
+    "height": 23
+  },
+  {
+    "name": "AVINASH",
+    "nrp": "1772030",
+    "color": "#00ff00",
+    "x": 344,
+    "y": 536,
+    "width": 30,
+    "height": 30
+  },
+  {
+    "name": "EGGY HERLANDY",
+    "nrp": "1772045",
+    "color": "#00ff00",
+    "x": 223,
+    "y": 495,
+    "width": 29,
+    "height": 29
+  }
+]

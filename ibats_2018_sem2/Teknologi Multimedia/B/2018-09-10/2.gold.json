@@ -1,0 +1,29 @@
+[
+  {
+    "name": "KELVIN",
+    "nrp": "1772014",
+    "color": "#00ff00",
+    "x": 138,
+    "y": 470,
+    "width": 40,
+    "height": 40
+  },
+  {
+    "name": "TIAZ RIZQY AMANDHA",
+    "nrp": "1772052",
+    "color": "#00ff00",
+    "x": 352,
+    "y": 548,
+    "width": 67,
+    "height": 67
+  },
+  {
+    "name": "CELINE LIESHIANA",
+    "nrp": "1772005",
+    "color": "#00ff00",
+    "x": 111,
+    "y": 545,
+    "width": 63,
+    "height": 63
+  }
+]

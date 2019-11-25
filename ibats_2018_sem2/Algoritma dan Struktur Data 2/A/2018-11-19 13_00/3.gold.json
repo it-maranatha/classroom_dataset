@@ -1,0 +1,83 @@
+[
+  {
+    "name": "KEVIN NOVANTUS PRATAMA",
+    "nrp": "1772011",
+    "color": "#00ff00",
+    "x": 419,
+    "y": 487,
+    "width": 23,
+    "height": 23
+  },
+  {
+    "name": "YOSEF YEHEZKIEL IRSYAM",
+    "nrp": "1772009",
+    "color": "#00ff00",
+    "x": 300,
+    "y": 477,
+    "width": 23,
+    "height": 23
+  },
+  {
+    "name": "KELVIN SUSANTO",
+    "nrp": "1772039",
+    "color": "#00ff00",
+    "x": 123,
+    "y": 513,
+    "width": 36,
+    "height": 36
+  },
+  {
+    "name": "JOHNSON HARTANTO",
+    "nrp": "1772017",
+    "color": "#00ff00",
+    "x": 354,
+    "y": 538,
+    "width": 38,
+    "height": 38
+  },
+  {
+    "name": "VINCENT GUNAERI",
+    "nrp": "1772001",
+    "color": "#00ff00",
+    "x": 29,
+    "y": 548,
+    "width": 48,
+    "height": 48
+  },
+  {
+    "name": "KELVIN",
+    "nrp": "1772014",
+    "color": "#00ff00",
+    "x": 258,
+    "y": 548,
+    "width": 46,
+    "height": 46
+  },
+  {
+    "name": "MULYADI DHARMAWAN",
+    "nrp": "1772028",
+    "color": "#00ff00",
+    "x": 230,
+    "y": 494,
+    "width": 40,
+    "height": 40
+  },
+  {
+    "name": "NICOLAVICKH YOHANES",
+    "nrp": "1772016",
+    "color": "#00ff00",
+    "x": 498,
+    "y": 490,
+    "width": 46,
+    "height": 46
+  },
+  {
+    "name": "IGNATIUS GIOVAN",
+    "nrp": "1772003",
+    "color": "#00ff00",
+    "x": 389,
+    "y": 499,
+    "width": 40,
+    "height": 40
+  }
+]

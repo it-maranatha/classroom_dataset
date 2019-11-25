@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Steven Christian",
+    "nrp": "1672056",
+    "color": "#00ff00",
+    "x": 249,
+    "y": 351,
+    "width": 28,
+    "height": 28
+  },
+  {
+    "name": "Yoko Wilyam Sigan",
+    "nrp": "1672011",
+    "color": "#00ff00",
+    "x": 103,
+    "y": 320,
+    "width": 44,
+    "height": 44
+  },
+  {
+    "name": "MADELENE HONORA",
+    "nrp": "1672024",
+    "color": "#00ff00",
+    "x": 403,
+    "y": 438,
+    "width": 52,
+    "height": 52
+  },
+  {
+    "name": "BRYAN",
+    "nrp": "1672013",
+    "color": "#00ff00",
+    "x": 122,
+    "y": 459,
+    "width": 66,
+    "height": 66
+  },
+  {
+    "name": "Lydia Noviani Kusumo",
+    "nrp": "1672014",
+    "color": "#00ff00",
+    "x": 243,
+    "y": 433,
+    "width": 47,
+    "height": 47
+  },
+  {
+    "name": "Ricardo Franclinton",
+    "nrp": "1672017",
+    "color": "#00ff00",
+    "x": 175,
+    "y": 322,
+    "width": 52,
+    "height": 52
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "OGGIE SEANTO",
+    "nrp": "1372031",
+    "color": "#00ff00",
+    "x": 594,
+    "y": 288,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "JIMMY PURNAWAN",
+    "nrp": "1672002",
+    "color": "#00ff00",
+    "x": 110,
+    "y": 302,
+    "width": 22,
+    "height": 22
+  },
+  {
+    "name": "AGASSI ANTONIUS",
+    "nrp": "1572034",
+    "color": "#00ff00",
+    "x": 709,
+    "y": 274,
+    "width": 24,
+    "height": 24
+  },
+  {
+    "name": "VERNANDA DWI AYUNINGRUM",
+    "nrp": "1672001",
+    "color": "#00ff00",
+    "x": 295,
+    "y": 317,
+    "width": 26,
+    "height": 26
+  },
+  {
+    "name": "SEAN MARSHALL HERAWAN",
+    "nrp": "1372043",
+    "color": "#00ff00",
+    "x": 670,
+    "y": 284,
+    "width": 27,
+    "height": 27
+  },
+  {
+    "name": "BRYAN",
+    "nrp": "1672013",
+    "color": "#00ff00",
+    "x": 252,
+    "y": 293,
+    "width": 27,
+    "height": 27
+  },
+  {
+    "name": "YOKO WILYAM SIGAN",
+    "nrp": "1672011",
+    "color": "#00ff00",
+    "x": 464,
+    "y": 315,
+    "width": 35,
+    "height": 35
+  }
+]

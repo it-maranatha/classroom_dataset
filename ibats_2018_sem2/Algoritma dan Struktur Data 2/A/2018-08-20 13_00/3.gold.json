@@ -1,0 +1,56 @@
+[
+  {
+    "name": "SUGIONO",
+    "nrp": "1772037",
+    "color": "#00ff00",
+    "x": 389,
+    "y": 489,
+    "width": 23,
+    "height": 23
+  },
+  {
+    "name": "YOSEF YEHEZKIEL IRSYAM",
+    "nrp": "1772009",
+    "color": "#00ff00",
+    "x": 191,
+    "y": 471,
+    "width": 30,
+    "height": 30
+  },
+  {
+    "name": "VINCENT GUNAERI",
+    "nrp": "1772001",
+    "color": "#00ff00",
+    "x": 196,
+    "y": 525,
+    "width": 28,
+    "height": 28
+  },
+  {
+    "name": "NICOLAVICKH YOHANES",
+    "nrp": "1772016",
+    "color": "#00ff00",
+    "x": 112,
+    "y": 551,
+    "width": 51,
+    "height": 51
+  },
+  {
+    "name": "JOHNSON HARTANTO",
+    "nrp": "1772017",
+    "color": "#00ff00",
+    "x": 487,
+    "y": 551,
+    "width": 54,
+    "height": 54
+  },
+  {
+    "name": "KELVIN SUSANTO",
+    "nrp": "1772039",
+    "color": "#00ff00",
+    "x": 358,
+    "y": 518,
+    "width": 53,
+    "height": 53
+  }
+]

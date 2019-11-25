@@ -1,0 +1,44 @@
+{
+    "classifier": "tre",
+    "true_positive": 6,
+    "false_positive": 0,
+    "false_negative": 2,
+    "true_positive_detections": [
+        {
+            "x": 614,
+            "y": 218,
+            "width": 40,
+            "height": 40
+        },
+        {
+            "x": 452,
+            "y": 236,
+            "width": 38,
+            "height": 38
+        },
+        {
+            "x": 703,
+            "y": 247,
+            "width": 44,
+            "height": 44
+        },
+        {
+            "x": 380,
+            "y": 276,
+            "width": 51,
+            "height": 51
+        },
+        {
+            "x": 860,
+            "y": 338,
+            "width": 60,
+            "height": 60
+        },
+        {
+            "x": 420,
+            "y": 326,
+            "width": 64,
+            "height": 64
+        }
+    ]
+}

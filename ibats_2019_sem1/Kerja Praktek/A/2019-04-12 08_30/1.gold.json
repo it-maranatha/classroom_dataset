@@ -1,0 +1,38 @@
+[
+  {
+    "name": "RONALDO JOSHUA",
+    "nrp": "1672005",
+    "color": "#00ff00",
+    "x": 746,
+    "y": 351,
+    "width": 56,
+    "height": 56
+  },
+  {
+    "name": "Henry Timothy",
+    "nrp": "1672029",
+    "color": "#00ff00",
+    "x": 624,
+    "y": 464,
+    "width": 74,
+    "height": 74
+  },
+  {
+    "name": "Christian",
+    "nrp": "1672022",
+    "color": "#00ff00",
+    "x": 243,
+    "y": 522,
+    "width": 110,
+    "height": 110
+  },
+  {
+    "name": "Yafet Raphael",
+    "nrp": "1672066",
+    "color": "#00ff00",
+    "x": 711,
+    "y": 535,
+    "width": 125,
+    "height": 125
+  }
+]

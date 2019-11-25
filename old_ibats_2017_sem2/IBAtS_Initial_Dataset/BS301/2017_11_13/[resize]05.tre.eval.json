@@ -1,0 +1,26 @@
+{
+    "classifier": "tre",
+    "true_positive": 3,
+    "false_positive": 0,
+    "false_negative": 4,
+    "true_positive_detections": [
+        {
+            "x": 638,
+            "y": 275,
+            "width": 44,
+            "height": 44
+        },
+        {
+            "x": 442,
+            "y": 268,
+            "width": 48,
+            "height": 48
+        },
+        {
+            "x": 673,
+            "y": 465,
+            "width": 112,
+            "height": 112
+        }
+    ]
+}

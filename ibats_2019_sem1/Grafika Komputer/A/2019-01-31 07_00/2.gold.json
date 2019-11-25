@@ -1,0 +1,29 @@
+[
+  {
+    "name": "BRYAN",
+    "nrp": "1672013",
+    "color": "#00ff00",
+    "x": 341,
+    "y": 400,
+    "width": 22,
+    "height": 22
+  },
+  {
+    "name": "CHRISTOPHER",
+    "nrp": "1672046",
+    "color": "#00ff00",
+    "x": 365,
+    "y": 457,
+    "width": 41,
+    "height": 41
+  },
+  {
+    "name": "Prakos Prakosa Dien",
+    "nrp": "1672049",
+    "color": "#00ff00",
+    "x": 440,
+    "y": 501,
+    "width": 80,
+    "height": 80
+  }
+]

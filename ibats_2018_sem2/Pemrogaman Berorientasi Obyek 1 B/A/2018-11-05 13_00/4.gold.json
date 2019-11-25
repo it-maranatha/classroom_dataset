@@ -1,0 +1,38 @@
+[
+  {
+    "name": "ARIYANTO SANI",
+    "nrp": "1772046",
+    "color": "#00ff00",
+    "x": 150,
+    "y": 428,
+    "width": 36,
+    "height": 36
+  },
+  {
+    "name": "ROY PARSAORAN",
+    "nrp": "1772044",
+    "color": "#00ff00",
+    "x": 382,
+    "y": 440,
+    "width": 37,
+    "height": 37
+  },
+  {
+    "name": "ALEXIUS SURYA",
+    "nrp": "1772043",
+    "color": "#00ff00",
+    "x": 435,
+    "y": 475,
+    "width": 57,
+    "height": 57
+  },
+  {
+    "name": "ARIEF KURNIAWAN",
+    "nrp": "1772049",
+    "color": "#00ff00",
+    "x": 128,
+    "y": 477,
+    "width": 57,
+    "height": 57
+  }
+]

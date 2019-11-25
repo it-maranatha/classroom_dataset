@@ -1,0 +1,56 @@
+[
+  {
+    "name": "IVENA WIJAYA",
+    "nrp": "1873029",
+    "color": "#00ff00",
+    "x": 591,
+    "y": 481,
+    "width": 45,
+    "height": 45
+  },
+  {
+    "name": "OTNIEL MANUEL PRASETYO",
+    "nrp": "1873019",
+    "color": "#00ff00",
+    "x": 57,
+    "y": 492,
+    "width": 53,
+    "height": 53
+  },
+  {
+    "name": "GABY GABRIELA SIAHAAN",
+    "nrp": "1873033",
+    "color": "#00ff00",
+    "x": 827,
+    "y": 502,
+    "width": 46,
+    "height": 46
+  },
+  {
+    "name": "JONATHAN GRACIO SUSANTO",
+    "nrp": "1873022",
+    "color": "#00ff00",
+    "x": 438,
+    "y": 505,
+    "width": 58,
+    "height": 58
+  },
+  {
+    "name": "WILLIAM LIMANJAYA",
+    "nrp": "1873028",
+    "color": "#00ff00",
+    "x": 688,
+    "y": 549,
+    "width": 59,
+    "height": 59
+  },
+  {
+    "name": "",
+    "nrp": "",
+    "color": "#00ff00",
+    "x": 726,
+    "y": 875,
+    "width": 35,
+    "height": 35
+  }
+]

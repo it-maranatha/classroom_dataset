@@ -1,0 +1,29 @@
+[
+  {
+    "name": "KELVIN",
+    "nrp": "1772014",
+    "color": "#00ff00",
+    "x": 324,
+    "y": 427,
+    "width": 33,
+    "height": 33
+  },
+  {
+    "name": "CELINE LIESHIANA",
+    "nrp": "1772005",
+    "color": "#00ff00",
+    "x": 257,
+    "y": 538,
+    "width": 60,
+    "height": 60
+  },
+  {
+    "name": "",
+    "nrp": "",
+    "color": "#00ff00",
+    "x": 422,
+    "y": 940,
+    "width": 22,
+    "height": 22
+  }
+]

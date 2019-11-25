@@ -1,0 +1,83 @@
+[
+  {
+    "name": "STEVEN PETER SANGIAN",
+    "nrp": "1872047",
+    "color": "#00ff00",
+    "x": 271,
+    "y": 237,
+    "width": 23,
+    "height": 23
+  },
+  {
+    "name": "MICHAEL WIDJAJAHALIM",
+    "nrp": "1872006",
+    "color": "#00ff00",
+    "x": 751,
+    "y": 247,
+    "width": 19,
+    "height": 19
+  },
+  {
+    "name": "NATHANAEL LIMAN",
+    "nrp": "1872014",
+    "color": "#00ff00",
+    "x": 414,
+    "y": 242,
+    "width": 29,
+    "height": 29
+  },
+  {
+    "name": "TOBIAS RENAL ARIANTO NAINGGOLAN",
+    "nrp": "1872015",
+    "color": "#00ff00",
+    "x": 242,
+    "y": 238,
+    "width": 27,
+    "height": 27
+  },
+  {
+    "name": "HOSEA ADIPRATAMA SANTOSO",
+    "nrp": "1872021",
+    "color": "#00ff00",
+    "x": 567,
+    "y": 249,
+    "width": 26,
+    "height": 26
+  },
+  {
+    "name": "MICHAEL JEREMY TAPPANG",
+    "nrp": "1872026",
+    "color": "#00ff00",
+    "x": 443,
+    "y": 271,
+    "width": 34,
+    "height": 34
+  },
+  {
+    "name": "JASON",
+    "nrp": "1872038",
+    "color": "#00ff00",
+    "x": 617,
+    "y": 271,
+    "width": 34,
+    "height": 34
+  },
+  {
+    "name": "NATANAEL HALIM",
+    "nrp": "1872012",
+    "color": "#00ff00",
+    "x": 97,
+    "y": 317,
+    "width": 59,
+    "height": 59
+  },
+  {
+    "name": "DENNIS LEONARDO",
+    "nrp": "1872009",
+    "color": "#00ff00",
+    "x": 479,
+    "y": 322,
+    "width": 49,
+    "height": 49
+  }
+]

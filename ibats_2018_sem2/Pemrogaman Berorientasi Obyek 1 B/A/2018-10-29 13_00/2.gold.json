@@ -1,0 +1,29 @@
+[
+  {
+    "name": "ALEXIUS SURYA",
+    "nrp": "1772043",
+    "color": "#00ff00",
+    "x": 179,
+    "y": 420,
+    "width": 33,
+    "height": 33
+  },
+  {
+    "name": "STEFANUS HERMAWAN",
+    "nrp": "1772023",
+    "color": "#00ff00",
+    "x": 366,
+    "y": 436,
+    "width": 31,
+    "height": 31
+  },
+  {
+    "name": "KAFKA FEBIANTO AGIHARTA",
+    "nrp": "1772012",
+    "color": "#00ff00",
+    "x": 428,
+    "y": 454,
+    "width": 50,
+    "height": 50
+  }
+]

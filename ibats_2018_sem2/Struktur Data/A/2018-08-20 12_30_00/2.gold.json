@@ -1,0 +1,56 @@
+[
+  {
+    "name": "FELIX SURYA HALIM,LIM",
+    "nrp": "1773010",
+    "color": "#00ff00",
+    "x": 538,
+    "y": 138,
+    "width": 44,
+    "height": 44
+  },
+  {
+    "name": "HANS CHRISTIAN",
+    "nrp": "1773012",
+    "color": "#00ff00",
+    "x": 335,
+    "y": 138,
+    "width": 53,
+    "height": 53
+  },
+  {
+    "name": "LUCKY",
+    "nrp": "1773008",
+    "color": "#00ff00",
+    "x": 655,
+    "y": 142,
+    "width": 57,
+    "height": 57
+  },
+  {
+    "name": "ANDIKA WIRAWAN",
+    "nrp": "1773024",
+    "color": "#00ff00",
+    "x": 233,
+    "y": 173,
+    "width": 65,
+    "height": 65
+  },
+  {
+    "name": "SARA AMELIA ROSADI",
+    "nrp": "1773029",
+    "color": "#00ff00",
+    "x": 604,
+    "y": 220,
+    "width": 80,
+    "height": 80
+  },
+  {
+    "name": "YOLITA FELICIA",
+    "nrp": "1773009",
+    "color": "#00ff00",
+    "x": 116,
+    "y": 248,
+    "width": 84,
+    "height": 84
+  }
+]

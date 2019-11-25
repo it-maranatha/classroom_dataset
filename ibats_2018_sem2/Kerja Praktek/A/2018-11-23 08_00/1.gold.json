@@ -1,0 +1,38 @@
+[
+  {
+    "name": "OGGIE SEANTO",
+    "nrp": "1372031",
+    "color": "#00ff00",
+    "x": 409,
+    "y": 245,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "name": "SEAN MARSHALL",
+    "nrp": "1372043",
+    "color": "#00ff00",
+    "x": 366,
+    "y": 259,
+    "width": 23,
+    "height": 23
+  },
+  {
+    "name": "ANANG ADEMANSI",
+    "nrp": "1472068",
+    "color": "#00ff00",
+    "x": 692,
+    "y": 273,
+    "width": 29,
+    "height": 29
+  },
+  {
+    "name": "AGASSI ANTONIUS",
+    "nrp": "1572034",
+    "color": "#00ff00",
+    "x": 612,
+    "y": 253,
+    "width": 30,
+    "height": 30
+  }
+]

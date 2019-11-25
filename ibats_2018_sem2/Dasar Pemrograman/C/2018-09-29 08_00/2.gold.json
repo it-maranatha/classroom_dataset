@@ -1,0 +1,38 @@
+[
+  {
+    "name": "MATTHEW DESAILLY",
+    "nrp": "1872055",
+    "color": "#00ff00",
+    "x": 107,
+    "y": 466,
+    "width": 30,
+    "height": 30
+  },
+  {
+    "name": "DAVID HARTONO",
+    "nrp": "1872031",
+    "color": "#00ff00",
+    "x": 373,
+    "y": 448,
+    "width": 36,
+    "height": 36
+  },
+  {
+    "name": "ANDRE RIVALDO PRASETYO",
+    "nrp": "1872013",
+    "color": "#00ff00",
+    "x": 320,
+    "y": 479,
+    "width": 38,
+    "height": 38
+  },
+  {
+    "name": "HELMY HAKIM HAN",
+    "nrp": "1872061",
+    "color": "#00ff00",
+    "x": 430,
+    "y": 524,
+    "width": 55,
+    "height": 55
+  }
+]

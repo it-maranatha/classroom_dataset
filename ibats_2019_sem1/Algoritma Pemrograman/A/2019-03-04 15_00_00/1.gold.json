@@ -1,0 +1,83 @@
+[
+  {
+    "name": "SINTA MARITO SIBORO",
+    "nrp": "1873026",
+    "color": "#00ff00",
+    "x": 520,
+    "y": 410,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "name": "VANIA VALENTINA PANDORA",
+    "nrp": "1873018",
+    "color": "#00ff00",
+    "x": 609,
+    "y": 417,
+    "width": 34,
+    "height": 34
+  },
+  {
+    "name": "GABBY FEBRIAN",
+    "nrp": "1873035",
+    "color": "#00ff00",
+    "x": 845,
+    "y": 485,
+    "width": 39,
+    "height": 39
+  },
+  {
+    "name": "ALVIRA PUTERI",
+    "nrp": "1873004",
+    "color": "#00ff00",
+    "x": 428,
+    "y": 495,
+    "width": 41,
+    "height": 41
+  },
+  {
+    "name": "VANIA SARWOKO",
+    "nrp": "1873005",
+    "color": "#00ff00",
+    "x": 504,
+    "y": 493,
+    "width": 45,
+    "height": 45
+  },
+  {
+    "name": "Mitchelle",
+    "nrp": "1873010",
+    "color": "#00ff00",
+    "x": 682,
+    "y": 499,
+    "width": 50,
+    "height": 50
+  },
+  {
+    "name": "GREGORIUS KENNARD TARUNA",
+    "nrp": "1873012",
+    "color": "#00ff00",
+    "x": 64,
+    "y": 514,
+    "width": 53,
+    "height": 53
+  },
+  {
+    "name": "FRANS YAVEGA",
+    "nrp": "1873013",
+    "color": "#00ff00",
+    "x": 192,
+    "y": 544,
+    "width": 54,
+    "height": 54
+  },
+  {
+    "name": "DARWIN GUNAWAN",
+    "nrp": "1873008",
+    "color": "#00ff00",
+    "x": 509,
+    "y": 560,
+    "width": 72,
+    "height": 72
+  }
+]

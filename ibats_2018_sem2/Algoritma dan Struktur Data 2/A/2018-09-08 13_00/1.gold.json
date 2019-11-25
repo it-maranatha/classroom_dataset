@@ -1,0 +1,56 @@
+[
+  {
+    "name": "IGNATIUS GIOVAN",
+    "nrp": "1772003",
+    "color": "#00ff00",
+    "x": 310,
+    "y": 480,
+    "width": 22,
+    "height": 22
+  },
+  {
+    "name": "EGGY HERLANDY",
+    "nrp": "1772045",
+    "color": "#00ff00",
+    "x": 345,
+    "y": 489,
+    "width": 22,
+    "height": 22
+  },
+  {
+    "name": "SILVIA TIFFANI",
+    "nrp": "1772010",
+    "color": "#00ff00",
+    "x": 263,
+    "y": 528,
+    "width": 27,
+    "height": 27
+  },
+  {
+    "name": "VINCENT GUNAERI",
+    "nrp": "1772001",
+    "color": "#00ff00",
+    "x": 198,
+    "y": 499,
+    "width": 33,
+    "height": 33
+  },
+  {
+    "name": "FEBRINA ANASTASHA",
+    "nrp": "1772006",
+    "color": "#00ff00",
+    "x": 130,
+    "y": 528,
+    "width": 57,
+    "height": 57
+  },
+  {
+    "name": "KELVIN SUSANTO",
+    "nrp": "1772039",
+    "color": "#00ff00",
+    "x": 253,
+    "y": 577,
+    "width": 50,
+    "height": 50
+  }
+]

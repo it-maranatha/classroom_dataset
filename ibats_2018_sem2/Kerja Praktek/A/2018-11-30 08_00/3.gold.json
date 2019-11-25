@@ -1,0 +1,83 @@
+[
+  {
+    "name": "BRYAN",
+    "nrp": "1672013",
+    "color": "#00ff00",
+    "x": 726,
+    "y": 249,
+    "width": 19,
+    "height": 19
+  },
+  {
+    "name": "JIMMY PURNAWAN",
+    "nrp": "1672002",
+    "color": "#00ff00",
+    "x": 601,
+    "y": 249,
+    "width": 20,
+    "height": 20
+  },
+  {
+    "name": "RICARDO FRANCLINTON",
+    "nrp": "1672017",
+    "color": "#00ff00",
+    "x": 679,
+    "y": 254,
+    "width": 27,
+    "height": 27
+  },
+  {
+    "name": "WILLIAM",
+    "nrp": "1672058",
+    "color": "#00ff00",
+    "x": 814,
+    "y": 266,
+    "width": 25,
+    "height": 25
+  },
+  {
+    "name": "MADELENE HONORA",
+    "nrp": "1672024",
+    "color": "#00ff00",
+    "x": 964,
+    "y": 265,
+    "width": 29,
+    "height": 29
+  },
+  {
+    "name": "VERNANDA DWI AYUNINGRUM",
+    "nrp": "1672001",
+    "color": "#00ff00",
+    "x": 370,
+    "y": 281,
+    "width": 31,
+    "height": 31
+  },
+  {
+    "name": "NURUL AFIANY",
+    "nrp": "1672035",
+    "color": "#00ff00",
+    "x": 595,
+    "y": 286,
+    "width": 31,
+    "height": 31
+  },
+  {
+    "name": "LYDIA NOVIANI KUSUMO",
+    "nrp": "1672014",
+    "color": "#00ff00",
+    "x": 830,
+    "y": 284,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "name": "YOKO WILYAM SIGAN",
+    "nrp": "1672011",
+    "color": "#00ff00",
+    "x": 995,
+    "y": 291,
+    "width": 36,
+    "height": 36
+  }
+]

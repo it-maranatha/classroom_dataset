@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Joshua Suherlan",
+    "nrp": "1772013",
+    "color": "#00ff00",
+    "x": 258,
+    "y": 402,
+    "width": 25,
+    "height": 25
+  },
+  {
+    "name": "ALEXIUS SURYA",
+    "nrp": "1772043",
+    "color": "#00ff00",
+    "x": 499,
+    "y": 442,
+    "width": 30,
+    "height": 30
+  },
+  {
+    "name": "IGNATIUS GIOVAN",
+    "nrp": "1772003",
+    "color": "#00ff00",
+    "x": 347,
+    "y": 442,
+    "width": 29,
+    "height": 29
+  },
+  {
+    "name": "JOHNSON HARTANTO",
+    "nrp": "1772017",
+    "color": "#00ff00",
+    "x": 289,
+    "y": 441,
+    "width": 37,
+    "height": 37
+  },
+  {
+    "name": "ARIEF KURNIAWAN",
+    "nrp": "1772049",
+    "color": "#00ff00",
+    "x": 512,
+    "y": 502,
+    "width": 55,
+    "height": 55
+  }
+]

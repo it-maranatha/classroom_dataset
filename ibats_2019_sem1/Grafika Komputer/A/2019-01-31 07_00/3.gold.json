@@ -1,0 +1,38 @@
+[
+  {
+    "name": "DENNIS AGUSTINUS",
+    "nrp": "1672076",
+    "color": "#00ff00",
+    "x": 222,
+    "y": 445,
+    "width": 24,
+    "height": 24
+  },
+  {
+    "name": "CHRISTIAN CHASTRO",
+    "nrp": "1672006",
+    "color": "#00ff00",
+    "x": 373,
+    "y": 500,
+    "width": 40,
+    "height": 40
+  },
+  {
+    "name": "Edwin",
+    "nrp": "1672049",
+    "color": "#00ff00",
+    "x": 299,
+    "y": 455,
+    "width": 23,
+    "height": 23
+  },
+  {
+    "name": "Steven Christian",
+    "nrp": "1672056",
+    "color": "#00ff00",
+    "x": 196,
+    "y": 458,
+    "width": 34,
+    "height": 34
+  }
+]

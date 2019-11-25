@@ -1,0 +1,47 @@
+[
+  {
+    "name": "PRAKAS PRAKOSA DIEN",
+    "nrp": "1672049",
+    "color": "#00ff00",
+    "x": 318,
+    "y": 335,
+    "width": 30,
+    "height": 30
+  },
+  {
+    "name": "ARIYANTO SANI",
+    "nrp": "1772046",
+    "color": "#00ff00",
+    "x": 130,
+    "y": 359,
+    "width": 41,
+    "height": 41
+  },
+  {
+    "name": "ROY PARSAORAN",
+    "nrp": "1772044",
+    "color": "#00ff00",
+    "x": 354,
+    "y": 367,
+    "width": 46,
+    "height": 46
+  },
+  {
+    "name": "STEFANUS HERMAWAN",
+    "nrp": "1772023",
+    "color": "#00ff00",
+    "x": 403,
+    "y": 433,
+    "width": 65,
+    "height": 65
+  },
+  {
+    "name": "ALEXIUS SURYA",
+    "nrp": "1772043",
+    "color": "#00ff00",
+    "x": 32,
+    "y": 414,
+    "width": 73,
+    "height": 73
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "ERICO APRIANUS",
+    "nrp": "1672038",
+    "color": "#00ff00",
+    "x": 250,
+    "y": 335,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "name": "VERNANDA DWI AYUNINGRUM",
+    "nrp": "1672001",
+    "color": "#00ff00",
+    "x": 343,
+    "y": 353,
+    "width": 41,
+    "height": 41
+  },
+  {
+    "name": "NURUL AFIANY",
+    "nrp": "1672035",
+    "color": "#00ff00",
+    "x": 466,
+    "y": 369,
+    "width": 39,
+    "height": 39
+  },
+  {
+    "name": "LYDIA NOVIANI KUSUMO",
+    "nrp": "1672014",
+    "color": "#00ff00",
+    "x": 172,
+    "y": 430,
+    "width": 68,
+    "height": 68
+  },
+  {
+    "name": "ELDHA RAMADHANTY",
+    "nrp": "1672018",
+    "color": "#00ff00",
+    "x": 537,
+    "y": 461,
+    "width": 74,
+    "height": 74
+  }
+]

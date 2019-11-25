@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ANDRE RIVALDO PRASETYO",
+    "nrp": "1872013",
+    "color": "#00ff00",
+    "x": 500,
+    "y": 168,
+    "width": 29,
+    "height": 29
+  },
+  {
+    "name": "TIFANI ASTADINI TARIGAN",
+    "nrp": "1872060",
+    "color": "#00ff00",
+    "x": 367,
+    "y": 175,
+    "width": 33,
+    "height": 33
+  },
+  {
+    "name": "MATTHEW DESAILLY",
+    "nrp": "1872055",
+    "color": "#00ff00",
+    "x": 318,
+    "y": 184,
+    "width": 33,
+    "height": 33
+  },
+  {
+    "name": "DAVID HARTONO",
+    "nrp": "1872031",
+    "color": "#00ff00",
+    "x": 721,
+    "y": 172,
+    "width": 42,
+    "height": 42
+  },
+  {
+    "name": "VARDINA NAVA MADYA KASMAN",
+    "nrp": "1872025",
+    "color": "#00ff00",
+    "x": 795,
+    "y": 216,
+    "width": 44,
+    "height": 44
+  },
+  {
+    "name": "HELMY HAKIM HAN",
+    "nrp": "1872061",
+    "color": "#00ff00",
+    "x": 147,
+    "y": 259,
+    "width": 74,
+    "height": 74
+  },
+  {
+    "name": "DINDA AYU FEBRIANI",
+    "nrp": "1872043",
+    "color": "#00ff00",
+    "x": 233,
+    "y": 227,
+    "width": 50,
+    "height": 50
+  }
+]

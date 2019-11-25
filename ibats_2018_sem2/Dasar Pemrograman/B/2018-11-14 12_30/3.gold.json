@@ -1,0 +1,65 @@
+[
+  {
+    "name": "KEVIN SENJAYA",
+    "nrp": "1872042",
+    "color": "#00ff00",
+    "x": 532,
+    "y": 255,
+    "width": 20,
+    "height": 20
+  },
+  {
+    "name": "RIVALDO STUART WATTIMENA",
+    "nrp": "1872035",
+    "color": "#00ff00",
+    "x": 794,
+    "y": 272,
+    "width": 24,
+    "height": 24
+  },
+  {
+    "name": "WILIAM CAESAR SENAS",
+    "nrp": "1872050",
+    "color": "#00ff00",
+    "x": 824,
+    "y": 252,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "name": "JONATHAN LEONARDI HALIM",
+    "nrp": "1872018",
+    "color": "#00ff00",
+    "x": 412,
+    "y": 261,
+    "width": 41,
+    "height": 41
+  },
+  {
+    "name": "MICHAEL JEREMY TAPPANG",
+    "nrp": "1872026",
+    "color": "#00ff00",
+    "x": 360,
+    "y": 272,
+    "width": 26,
+    "height": 26
+  },
+  {
+    "name": "NATHANAEL LIMAN",
+    "nrp": "1872014",
+    "color": "#00ff00",
+    "x": 731,
+    "y": 287,
+    "width": 44,
+    "height": 44
+  },
+  {
+    "name": "RAY CHRISTIAN KUSTIAWAN",
+    "nrp": "1872033",
+    "color": "#00ff00",
+    "x": 338,
+    "y": 308,
+    "width": 59,
+    "height": 59
+  }
+]

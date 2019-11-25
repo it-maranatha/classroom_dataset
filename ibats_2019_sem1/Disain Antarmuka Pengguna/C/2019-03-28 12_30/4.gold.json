@@ -1,0 +1,29 @@
+[
+  {
+    "name": "ARIEF KURNIAWAN",
+    "nrp": "1772049",
+    "color": "#00ff00",
+    "x": 513,
+    "y": 461,
+    "width": 60,
+    "height": 60
+  },
+  {
+    "name": "ALEXIUS SURYA",
+    "nrp": "1772043",
+    "color": "#00ff00",
+    "x": 301,
+    "y": 474,
+    "width": 52,
+    "height": 52
+  },
+  {
+    "name": "Joshua Suherlan",
+    "nrp": "1772013",
+    "color": "#00ff00",
+    "x": 643,
+    "y": 570,
+    "width": 108,
+    "height": 108
+  }
+]

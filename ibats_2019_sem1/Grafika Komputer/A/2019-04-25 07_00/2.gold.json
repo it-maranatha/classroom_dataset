@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Edwin",
+    "nrp": "1672049",
+    "color": "#00ff00",
+    "x": 185,
+    "y": 410,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "name": "STEVEN CHRISTIAN HERYAWAN",
+    "nrp": "1672056",
+    "color": "#00ff00",
+    "x": 262,
+    "y": 416,
+    "width": 37,
+    "height": 37
+  },
+  {
+    "name": "CHRISTIAN CHASTRO",
+    "nrp": "1672006",
+    "color": "#00ff00",
+    "x": 498,
+    "y": 459,
+    "width": 54,
+    "height": 54
+  }
+]

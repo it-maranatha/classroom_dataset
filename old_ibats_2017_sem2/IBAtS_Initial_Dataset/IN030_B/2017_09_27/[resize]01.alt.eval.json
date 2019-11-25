@@ -1,0 +1,26 @@
+{
+    "classifier": "alt",
+    "true_positive": 3,
+    "false_positive": 0,
+    "false_negative": 0,
+    "true_positive_detections": [
+        {
+            "x": 421,
+            "y": 471,
+            "width": 29,
+            "height": 29
+        },
+        {
+            "x": 244,
+            "y": 517,
+            "width": 47,
+            "height": 47
+        },
+        {
+            "x": 87,
+            "y": 544,
+            "width": 61,
+            "height": 61
+        }
+    ]
+}

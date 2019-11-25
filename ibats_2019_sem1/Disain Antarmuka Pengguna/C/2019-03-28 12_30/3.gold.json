@@ -1,0 +1,65 @@
+[
+  {
+    "name": "IGNATIUS GIOVAN",
+    "nrp": "1772003",
+    "color": "#00ff00",
+    "x": 188,
+    "y": 495,
+    "width": 53,
+    "height": 53
+  },
+  {
+    "name": "JOHNSON HARTANTO",
+    "nrp": "1772017",
+    "color": "#00ff00",
+    "x": 532,
+    "y": 599,
+    "width": 128,
+    "height": 128
+  },
+  {
+    "name": "ELDHA RAMADHANTY",
+    "nrp": "1672018",
+    "color": "#00ff00",
+    "x": 349,
+    "y": 478,
+    "width": 31,
+    "height": 31
+  },
+  {
+    "name": "CHRISTIAN",
+    "nrp": "1672022",
+    "color": "#00ff00",
+    "x": 240,
+    "y": 468,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "name": "MULYADI DHARMAWAN",
+    "nrp": "1772028",
+    "color": "#00ff00",
+    "x": 429,
+    "y": 506,
+    "width": 54,
+    "height": 54
+  },
+  {
+    "name": "",
+    "nrp": "",
+    "color": "#00ff00",
+    "x": 81,
+    "y": 775,
+    "width": 19,
+    "height": 19
+  },
+  {
+    "name": "",
+    "nrp": "",
+    "color": "#00ff00",
+    "x": 130,
+    "y": 825,
+    "width": 16,
+    "height": 16
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "DAVID HARTONO",
+    "nrp": "1872031",
+    "color": "#00ff00",
+    "x": 400,
+    "y": 506,
+    "width": 33,
+    "height": 33
+  },
+  {
+    "name": "WEDDY ALVINO MARTIN SITOHANG",
+    "nrp": "1872063",
+    "color": "#00ff00",
+    "x": 169,
+    "y": 496,
+    "width": 35,
+    "height": 35
+  },
+  {
+    "name": "ANDRE RIVALDO PRASETYO",
+    "nrp": "1872013",
+    "color": "#00ff00",
+    "x": 129,
+    "y": 523,
+    "width": 43,
+    "height": 43
+  },
+  {
+    "name": "VARDINA NAVA MADYA KASMAN",
+    "nrp": "1872025",
+    "color": "#00ff00",
+    "x": 428,
+    "y": 570,
+    "width": 48,
+    "height": 48
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "JASON",
+    "nrp": "1872038",
+    "color": "#00ff00",
+    "x": 534,
+    "y": 250,
+    "width": 29,
+    "height": 29
+  },
+  {
+    "name": "RONALDO TASMAN",
+    "nrp": "1872030",
+    "color": "#00ff00",
+    "x": 700,
+    "y": 267,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "name": "DAVID JOHN ELIEZER",
+    "nrp": "1872057",
+    "color": "#00ff00",
+    "x": 534,
+    "y": 323,
+    "width": 38,
+    "height": 38
+  },
+  {
+    "name": "JONATHAN LEONARDI HALIM",
+    "nrp": "1872018",
+    "color": "#00ff00",
+    "x": 321,
+    "y": 280,
+    "width": 43,
+    "height": 43
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "PRAKAS PRAKOSA DIEN",
+    "nrp": "1672049",
+    "color": "#00ff00",
+    "x": 382,
+    "y": 373,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "name": "ALEXIUS SURYA",
+    "nrp": "1772043",
+    "color": "#00ff00",
+    "x": 425,
+    "y": 398,
+    "width": 46,
+    "height": 46
+  },
+  {
+    "name": "KAFKA FEBIANTO AGIHARTA",
+    "nrp": "1772012",
+    "color": "#00ff00",
+    "x": 497,
+    "y": 427,
+    "width": 70,
+    "height": 70
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "ROY PARSAORAN",
+    "nrp": "1772044",
+    "color": "#00ff00",
+    "x": 344,
+    "y": 450,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "name": "ARIYANTO SANI",
+    "nrp": "1772046",
+    "color": "#00ff00",
+    "x": 98,
+    "y": 469,
+    "width": 49,
+    "height": 49
+  },
+  {
+    "name": "ARIEF KURNIAWAN",
+    "nrp": "1772049",
+    "color": "#00ff00",
+    "x": 389,
+    "y": 479,
+    "width": 57,
+    "height": 57
+  }
+]

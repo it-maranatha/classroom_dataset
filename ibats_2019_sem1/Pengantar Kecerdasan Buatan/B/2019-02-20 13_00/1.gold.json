@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Christian",
+    "nrp": "1672022",
+    "color": "#00ff00",
+    "x": 272,
+    "y": 350,
+    "width": 25,
+    "height": 25
+  },
+  {
+    "name": "LOUREN FERMANDO",
+    "nrp": "1672074",
+    "color": "#00ff00",
+    "x": 409,
+    "y": 360,
+    "width": 29,
+    "height": 29
+  },
+  {
+    "name": "Riky Andreas Saputra",
+    "nrp": "1672037",
+    "color": "#00ff00",
+    "x": 188,
+    "y": 364,
+    "width": 32,
+    "height": 32
+  }
+]

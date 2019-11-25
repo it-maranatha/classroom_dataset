@@ -1,0 +1,65 @@
+[
+  {
+    "name": "KELVIN",
+    "nrp": "1772014",
+    "color": "#00ff00",
+    "x": 340,
+    "y": 479,
+    "width": 22,
+    "height": 22
+  },
+  {
+    "name": "CELINE LIESHIANA",
+    "nrp": "1772005",
+    "color": "#00ff00",
+    "x": 211,
+    "y": 492,
+    "width": 21,
+    "height": 21
+  },
+  {
+    "name": "KELVIN SUSANTO",
+    "nrp": "1772039",
+    "color": "#00ff00",
+    "x": 378,
+    "y": 498,
+    "width": 24,
+    "height": 24
+  },
+  {
+    "name": "JOSHUA SUHERLAN",
+    "nrp": "1772013",
+    "color": "#00ff00",
+    "x": 166,
+    "y": 505,
+    "width": 24,
+    "height": 24
+  },
+  {
+    "name": "NATASYA DEY",
+    "nrp": "1772041",
+    "color": "#00ff00",
+    "x": 414,
+    "y": 514,
+    "width": 38,
+    "height": 38
+  },
+  {
+    "name": "ANASTASIA LEVINA",
+    "nrp": "1772020",
+    "color": "#00ff00",
+    "x": 178,
+    "y": 526,
+    "width": 35,
+    "height": 35
+  },
+  {
+    "name": "YOEL OSCAR WERINUSSA",
+    "nrp": "1672063",
+    "color": "#00ff00",
+    "x": 439,
+    "y": 566,
+    "width": 48,
+    "height": 48
+  }
+]

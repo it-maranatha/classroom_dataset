@@ -1,0 +1,83 @@
+[
+  {
+    "name": "HERMANTO",
+    "nrp": "1773014",
+    "color": "#00ff00",
+    "x": 941,
+    "y": 355,
+    "width": 42,
+    "height": 42
+  },
+  {
+    "name": "HANS CHRISTIAN",
+    "nrp": "1773012",
+    "color": "#00ff00",
+    "x": 695,
+    "y": 344,
+    "width": 40,
+    "height": 40
+  },
+  {
+    "name": "LUCKY",
+    "nrp": "1773008",
+    "color": "#00ff00",
+    "x": 571,
+    "y": 373,
+    "width": 39,
+    "height": 39
+  },
+  {
+    "name": "JEANNETH FALENSCA ALFONS",
+    "nrp": "1773023",
+    "color": "#00ff00",
+    "x": 225,
+    "y": 412,
+    "width": 44,
+    "height": 44
+  },
+  {
+    "name": "MEGA INJELIA TESALONIKA SELANNO",
+    "nrp": "1773022",
+    "color": "#00ff00",
+    "x": 365,
+    "y": 418,
+    "width": 44,
+    "height": 44
+  },
+  {
+    "name": "SYLVIA PRINCESA",
+    "nrp": "1773021",
+    "color": "#00ff00",
+    "x": 662,
+    "y": 453,
+    "width": 50,
+    "height": 50
+  },
+  {
+    "name": "YASINTA KURNIA WIJAYA",
+    "nrp": "1773003",
+    "color": "#00ff00",
+    "x": 505,
+    "y": 435,
+    "width": 51,
+    "height": 51
+  },
+  {
+    "name": "DANIEL SEPTIAN WIJAYA",
+    "nrp": "1773005",
+    "color": "#00ff00",
+    "x": 91,
+    "y": 478,
+    "width": 74,
+    "height": 74
+  },
+  {
+    "name": "ANTHONIUS H",
+    "nrp": "1773016",
+    "color": "#00ff00",
+    "x": 504,
+    "y": 525,
+    "width": 78,
+    "height": 78
+  }
+]

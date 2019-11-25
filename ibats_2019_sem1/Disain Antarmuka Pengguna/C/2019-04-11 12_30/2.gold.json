@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Andrianus Alvien",
+    "nrp": "1672039",
+    "color": "#00ff00",
+    "x": 460,
+    "y": 430,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "name": "Joshua Eka",
+    "nrp": "1672063",
+    "color": "#00ff00",
+    "x": 244,
+    "y": 438,
+    "width": 31,
+    "height": 31
+  },
+  {
+    "name": "Lukas Marsel Ganda",
+    "nrp": "1672051",
+    "color": "#00ff00",
+    "x": 556,
+    "y": 464,
+    "width": 45,
+    "height": 45
+  }
+]

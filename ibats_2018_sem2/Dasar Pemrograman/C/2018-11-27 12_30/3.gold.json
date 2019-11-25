@@ -1,0 +1,56 @@
+[
+  {
+    "name": "TIFANI ASTADINI TARIGAN",
+    "nrp": "1872060",
+    "color": "#00ff00",
+    "x": 68,
+    "y": 510,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "name": "VARDINA NAVA MADYA KASMAN",
+    "nrp": "1872025",
+    "color": "#00ff00",
+    "x": 539,
+    "y": 501,
+    "width": 33,
+    "height": 33
+  },
+  {
+    "name": "MICHAEL SEBASTIAN GUNADI",
+    "nrp": "1872005",
+    "color": "#00ff00",
+    "x": 315,
+    "y": 495,
+    "width": 33,
+    "height": 33
+  },
+  {
+    "name": "ABHIPRAYA RADHITYAQSO ESMANO",
+    "nrp": "1872049",
+    "color": "#00ff00",
+    "x": 242,
+    "y": 535,
+    "width": 38,
+    "height": 38
+  },
+  {
+    "name": "ANDRE RIVALDO PRASETYO",
+    "nrp": "1872013",
+    "color": "#00ff00",
+    "x": 417,
+    "y": 535,
+    "width": 45,
+    "height": 45
+  },
+  {
+    "name": "",
+    "nrp": "",
+    "color": "#00ff00",
+    "x": 91,
+    "y": 735,
+    "width": 23,
+    "height": 23
+  }
+]
